@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Spring Boot E-Commerce Project**
 
-- 🌱 I’m currently learning **Mokoto,Nodejs, Reactjs,Expessjs, Ejs**
+- 🌱 I’m currently learning **Mokoko,Nodejs, Reactjs,Expessjs, Ejs**
 
-- 💬 Ask me about **c and c++ algorithms and data structures, space and time coplexity of functions.**
+- 💬 Ask me about **c and c++ algorithms and data structures, space and time copmlexity of functions.**
 
 - 📫 How to reach me **ratemolewis@gmail.com**
 
