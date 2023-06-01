@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Boot E-Commerce Project**
 
-- 🌱 I’m currently learning **Mokoko,Nodejs, Reactjs,Expessjs, Ejs**
+- 🌱 I’m currently learning **Motoko,Nodejs, Reactjs,Expessjs, Ejs**
 
 - 💬 Ask me about **c and c++ algorithms and data structures, space and time copmlexity of functions.**
 
