@@ -1,13 +1,13 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://ratemolewis.io)
 <h1 align="center">Hi 👋, I'm Ratemo Lewis</h1>
-<h3 align="center">A passionate fullstack developer and certified network technician from Kenya.</h3>
+<h3 align="center">A passionate fullstack developer who is also a CCNA certified network technician from Kenya.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratemolewis&label=Profile%20views&color=0e75b6&style=flat" alt="ratemolewis" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot E-Commerce Project**
 
-- 🌱 I’m currently learning **Motoko,Nodejs, Reactjs,Expessjs, Ejs**
+- 🌱 I’m currently learning **Motoko(Web3),Nodejs, Reactjs,Expessjs, Ejs**
 
 - 💬 Ask me about **c and c++ algorithms and data structures, space and time copmlexity of functions.**
 
